@@ -1,0 +1,1 @@
+c:\\laragon\bin\php\php7.1\php.exe -S localhost:8000 -d display_errors=0 -t public/
